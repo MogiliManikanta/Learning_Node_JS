@@ -1,0 +1,19 @@
+{
+  "name": "com.manikanta",
+  "version": "1.0.0",
+  "description": "Learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MogiliManikanta/Learning_Node_JS.git"
+  },
+  "author": "manikanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MogiliManikanta/Learning_Node_JS/issues"
+  },
+  "homepage": "https://github.com/MogiliManikanta/Learning_Node_JS#readme"
+}
