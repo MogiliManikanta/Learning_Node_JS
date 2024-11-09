@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MogiliManikanta/Learning_Node_JS/issues"
   },
-  "homepage": "https://github.com/MogiliManikanta/Learning_Node_JS#readme"
+  "homepage": "https://github.com/MogiliManikanta/Learning_Node_JS#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }

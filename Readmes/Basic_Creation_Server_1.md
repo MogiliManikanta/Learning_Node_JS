@@ -1,6 +1,6 @@
 # Basic Creation of Server in node js
 
-```
+```javascript
 const http = require("http");
 const fs = require("fs");
 
@@ -26,7 +26,6 @@ const myServer = http.createServer((req, res) => {
 myServer.listen(8000, () => {
   console.log("Server is running on port 8000");
 });
-
 ```
 
 # Project Title
