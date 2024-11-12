@@ -11,3 +11,7 @@
 1731172293720 : /favicon.ico New Req Recorded
 1731172303979 : /about?name=manikanta New Req Recorded
 1731172304160 : /favicon.ico New Req Recorded
+1731336639638  : GET: /api/users New Req Recorded
+1731336670859  : GET: /api/users New Req Recorded
+1731336699262  : GET: /api/users/1 New Req Recorded
+1731336800294  : GET: ::1:/api/users/ New Req Recorded
